@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @Valeriy991
-- 🌱 I’m currently learning Java
-- 📫 How to reach me Valeriy-g94@yandex.ru
+- 🌱 I’m Middle Java Developer
+- 📫 How to reach me Valeriy-g94@yandex.ru or Telegram https://t.me/GulinValeriy 
+  
 
-<!---
-Valeriy991/Valeriy991 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
